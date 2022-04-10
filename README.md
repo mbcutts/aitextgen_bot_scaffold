@@ -8,3 +8,6 @@ Looking to learn more about the `aitextgen` library or how to train a GPT-2 mode
 You are going to need to download your /trained_model folder from training with `aitextgen` and place it in the same directory as this python file. 
 
 You also will need to install requirements `aitextgen` and `discord`. 
+
+### Use Case
+Add my rap-lyric generating discord bot, DrizzyBot to your server: https://discord.com/api/oauth2/authorize?client_id=951203643808423937&permissions=534723951680&scope=bot
