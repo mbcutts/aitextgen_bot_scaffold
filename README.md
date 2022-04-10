@@ -10,4 +10,4 @@ Add my rap-lyric generating discord bot, DrizzyBot to your server: https://disco
 
 Looking to learn more about the `aitextgen` library or how to train a GPT-2 model on it? Check out my comprehensive walkthrough and use this code to build a rap lyric bot! https://github.com/mbcutts/aitextgen_walkthrough. 
 
-Looking to build a flask site with `aitextgen`? Check out my LyricBot code!
+Looking to build a flask site with `aitextgen`? [Reach out to me](mailto:mitchellbcutts@gmail.com).
