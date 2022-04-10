@@ -1,4 +1,4 @@
-# Aitextgen Discord Bot Scaffold
+# Discord Bot Scaffold for `aitextgen`
 
 Are you looking to use GPT-2 models to generate text with you discord bot? Look no further, just use this simple script.
 
