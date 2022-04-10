@@ -1,6 +1,6 @@
-# GPT-2/Distilbert TextGen Discord Bot Scaffold 
+# GPT-2/Distilbert text-gen discord bot 
 
-Are you looking to use GPT-2 models to generate text with you discord bot? Look no further, just use this simple script.
+Are you looking to use GPT-2 models to generate text with you discord bot? Look no further, just use this simple template.
 
 Looking to learn more about the `aitextgen` library or how to train a GPT-2 model on it? Check out my comprehensive walkthrough and use this code to build a rap lyric bot! https://github.com/mbcutts/aitextgen_walkthrough. 
 
