@@ -1,6 +1,6 @@
 # GPT-2/Distilbert text-gen discord bot 
 
-Are you looking to use GPT-2 models to generate text with you discord bot? Look no further, just use this simple template.
+Want to use GPT-2 models to generate text with you discord bot? Look no further, just use this simple template.
 
 ### Setup
 You are going to need to download your /trained_model folder from training with `aitextgen` and place it in the same directory as this python file. You also will need to install requirements `aitextgen` and `discord`. 
