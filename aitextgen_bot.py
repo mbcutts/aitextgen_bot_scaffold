@@ -11,8 +11,6 @@ token = ''
 
 ai = aitextgen(model_folder="trained_model")
 dirpath = os.getcwd()
-now = datetime.now().hour + 1  # this represents EST.
-
 
 @bot.command()
 async def generate(ctx, arg=None):
@@ -30,7 +28,7 @@ async def generate(ctx, arg=None):
             file_name = dirFiles[0]
             if (file_name == "trained_model"):
                 file_name = dirFiles[1]
-            if (file_name == 'drizzy.py'):
+            if (file_name == ''):
                 file_name = dirFiles[2]
             print(file_name)
             file = open(file_name, encoding="utf8")
